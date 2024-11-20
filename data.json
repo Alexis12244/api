@@ -1,23 +1,32 @@
 [
     {
         "id": 1,
-        "nombre": "Drop Box",
-        "categoria": "Suspenso",
-        "descripcion": "Actriz principal Sandra Bullock",
-        "fecha": "2024-11-19T06:00:00.000Z"
+        "nombre": "Attack on Titan",
+        "categoria": "Acción",
+        "descripcion": "Batallas épicas contra titanes"
+    },
+    {
+        "id": 2,
+        "nombre": "My Hero Academia",
+        "categoria": "Superhéroes",
+        "descripcion": "Estudiantes luchando para convertirse en héroes"
     },
     {
         "id": 3,
-        "nombre": "No mires atrás",
-        "categoria": "Ficción",
-        "descripcion": "Actriz principal Julia Roberts",
-        "fecha": "2024-11-14T06:00:00.000Z"
+        "nombre": "Demon Slayer",
+        "categoria": "Aventura",
+        "descripcion": "Una lucha contra demonios para salvar a la humanidad"
+    }
+   {
+        "id": 4,
+        "nombre": "Dragon Ball Z",
+        "categoria": "Acción",
+        "descripcion": "Guerreros luchando para salvar el universo"
     },
     {
-        "id": 4,
-        "nombre": "La casa de papel",
-        "categoria": "Drama",
-        "descripcion": "Origen Español",
-        "fecha": "2024-11-18T06:00:00.000Z"
+        "id": 5,
+        "nombre": "Spy x Family",
+        "categoria": "Comedia",
+        "descripcion": "Un espía que forma una familia falsa para cumplir su misión"
     }
 ]
